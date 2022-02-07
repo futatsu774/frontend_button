@@ -1,0 +1,16 @@
+.button {
+   border-radius: 0px;
+   font-size: 18; 
+   padding: 10px;
+   background-color: rgb(100, 189, 95);
+   border: 2px solid #4CAF50;
+   color: white;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
